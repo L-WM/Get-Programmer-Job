@@ -25,3 +25,4 @@
 
 ## 计算机基础
 - [ ] [Google面试指南](https://github.com/merelydust/coding-interview-university/blob/master/translations/README-cn.md)
+- [ ] [@CyC的CS Note](https://github.com/CyC2018/CS-Notes)
