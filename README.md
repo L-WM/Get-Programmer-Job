@@ -1,4 +1,4 @@
-# 目标：开发岗or机器学习岗的工作
+# 目标：前端开发岗
 
 ## 能力考试
 - [ ] PAT甲级-高分大法好
@@ -19,13 +19,15 @@
 - [ ] 斯坦福大学NLP与DL
 
 ## 前端技能
-- [ ] html, css, js
-- [ ] Djago
-- [ ] MySQL
+- [他人的经验](https://github.com/qiu-deqing/FE-learning)
+- [ ] html, css, JavaScript
+- [ ] React Native框架学习
 
-## 看书
+## 会一点机器学习
 - [ ] ML底层：李航《统计学习方法》，周志华《机器学习》
 - [ ] ML实战：何宇健《Python与机器学习实战》
+
+## 程序员的面试
 - [ ] 《剑指 offer》-配合牛客刷题
 
 ## 刷题
