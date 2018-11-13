@@ -1,9 +1,13 @@
 # 目标：前端开发岗
 
+## 我的作品
+[尘埃的小宇宙: mydust.xyz](mydust.xyz)
+
 ## 能力考试
 - [ ] PAT甲级-高分大法好
 
 ## 计算机基础
+（数据结构 算法 计算机网络 操作系统 数据库etc）
 - [ ] [Google面试指南](https://github.com/merelydust/coding-interview-university/blob/master/translations/README-cn.md)
 - [ ] [@CyC的CS Note](https://github.com/CyC2018/CS-Notes)
 
@@ -13,19 +17,21 @@
 - [ ] [统计学-杜克大学教材和配套视频](https://www.openintro.org/stat/textbook.php?stat_book=os)
 - [X] 线性代数-MIT OCW（大三完成）
 
-## 机器学习课程
-- [ ] 吴恩达机器学习
-- [ ] 吴恩达深度学习
-- [ ] 斯坦福大学NLP与DL
-
 ## 前端技能
 - [他人的经验](https://github.com/qiu-deqing/FE-learning)
 - [ ] html, css, JavaScript
-- [ ] React Native框架学习
+- [ ] React Native
 
-## 会一点机器学习
-- [ ] ML底层：李航《统计学习方法》，周志华《机器学习》
-- [ ] ML实战：何宇健《Python与机器学习实战》
+## 兴趣爱好
+- 会一点机器学习
+  - [ ] ML底层：李航《统计学习方法》，周志华《机器学习》
+  - [ ] ML实战：何宇健《Python与机器学习实战》
+  - [] 机器学习课程
+    - [ ] 吴恩达机器学习
+    - [ ] 吴恩达深度学习
+    - [ ] 斯坦福大学NLP与DL
+- 会一点函数式编程
+  - [ ] 《Haskell趣学指南》
 
 ## 程序员的面试
 - [ ] 《剑指 offer》-配合牛客刷题
