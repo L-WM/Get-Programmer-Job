@@ -2,7 +2,7 @@
 [尘埃的小宇宙: mydust.xyz](mydust.xyz)
 
 ## 能力考试
-- [ ] PAT甲级-高分大法好
+- [ ] [PAT甲级](https://github.com/merelydust/PAT-Advanced-Level)
 
 ## 计算机基础
 （数据结构 算法 计算机网络 操作系统 数据库etc）
