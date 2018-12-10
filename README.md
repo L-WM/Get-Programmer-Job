@@ -17,7 +17,8 @@
 
 ## 前端技能
 - [他人的经验](https://github.com/qiu-deqing/FE-learning)
-- [ ] html, css, JavaScript
+- [ ] HTML & CSS
+- [ ] JavaScript
 - [ ] React Native
 
 ## 兴趣爱好
@@ -31,11 +32,9 @@
 - 会一点函数式编程
   - [ ] 《Haskell趣学指南》
 
-## 程序员的面试
+## 面试准备
 - [InterviewMap](https://yuchengkai.cn/docs/zh/)
 - [ ] 《剑指 offer》-配合牛客刷题
 
 ## 刷题
-- [ ] [leetcode](https://leetcode.com/)
-
-
+- [ ] [leetcode](https://leetcode.com/shadowww/)
