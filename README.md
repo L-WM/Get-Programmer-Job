@@ -17,7 +17,7 @@
 
 ## 前端技能
 - [他人的经验](https://github.com/qiu-deqing/FE-learning)
-- [ ] HTML & CSS
+- [X] HTML & CSS
 - [ ] JavaScript
 - [ ] React Native
 
