@@ -18,8 +18,8 @@
 ## 前端技能
 - [他人的经验](https://github.com/qiu-deqing/FE-learning)
 - [X] HTML & CSS
-- [ ] JavaScript
-- [ ] React Native
+- [X] JavaScript
+- [ ] 常用框架
 
 ## 兴趣爱好
 - 会一点机器学习
