@@ -23,8 +23,8 @@
 
 ## 兴趣爱好
 - 会一点机器学习
-  - [ ] ML底层：李航《统计学习方法》，周志华《机器学习》
-  - [ ] ML实战：何宇健《Python与机器学习实战》
+  - [ ] ML底层：周志华《机器学习》
+  - [ ] ML实战：[华盛顿大学Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations/home/welcome)
   - [ ] 机器学习课程
     - [ ] 吴恩达机器学习
     - [ ] 吴恩达深度学习
