@@ -17,11 +17,13 @@
 - [x] [统计学-杜克大学教材和配套视频](https://www.openintro.org/stat/textbook.php?stat_book=os)
 - [X] 线性代数-MIT OCW（大三完成）
 
-## 借鉴资源👩🏻‍💻
+## 前端知识点👩🏻‍💻
 
-- [ ] [他人的经验](https://github.com/qiu-deqing/FE-learning)
-
+- [ ] [前端入门方法](https://github.com/qiu-deqing/FE-learning)
 - [ ] [前端技术清单](https://alienzhou.github.io/frontend-tech-list/)
+- [ ] [知识点自查 Know it all](https://alienzhou.github.io/frontend-tech-list/)
+
+- [ ] [CSS Grid](https://courses.wesbos.com/account/access/5cdd182085f96c03c1e44c53)
 
 ## 兴趣爱好🥳
 
@@ -37,6 +39,8 @@
 * 阅读📖
 
   [记录在博客](https://merelydust.github.io/)
+  
+* 坚持打网球🎾
 
 ## 面试准备
 
