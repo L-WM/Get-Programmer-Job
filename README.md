@@ -19,9 +19,12 @@
 
 ## 前端知识点👩🏻‍💻
 
+**概览**
+
 - [ ] [前端入门方法](https://github.com/qiu-deqing/FE-learning)
 - [ ] [前端技术清单](https://alienzhou.github.io/frontend-tech-list/)
-- [ ] [知识点自查 Know it all](https://alienzhou.github.io/frontend-tech-list/)
+
+**细分**
 
 - [ ] [CSS Grid](https://courses.wesbos.com/account/access/5cdd182085f96c03c1e44c53)
 
@@ -36,9 +39,13 @@
 - 会一点函数式编程
   - [ ] 《Haskell趣学指南》
 
-* 阅读📖
+* 保持输出
 
-  [记录在博客](https://merelydust.github.io/)
+  阅读📖 [记录在博客](https://merelydust.github.io/)
+  
+  视频📺 [记录在b站](https://space.bilibili.com/34609713)
+  
+  公众号📰 作为视频的补充 + 分享短图文
   
 * 坚持打网球🎾
 
